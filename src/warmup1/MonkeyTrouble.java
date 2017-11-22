@@ -1,4 +1,4 @@
-package strings1;
+package warmup1;
 
 /*We have two monkeys, a and b, and the parameters aSmile and bSmile 
  *indicate if each is smiling. We are in trouble if they are both smiling
